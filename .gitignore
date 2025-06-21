@@ -1,1 +1,3 @@
 .venv/
+.gradio/
+E-WasteGenerationClassification.ipynb
